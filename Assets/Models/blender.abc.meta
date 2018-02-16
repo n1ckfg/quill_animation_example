@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 26b90961f573afd40bfe0dce798f4855
+timeCreated: 1518821677
+licenseType: Pro
+ScriptedImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    scaleFactor: 1
+    swapHandedness: 1
+    swapFaceWinding: 0
+    turnQuadEdges: 0
+    interpolateSamples: 1
+    importXform: 1
+    importCamera: 1
+    importPolyMesh: 1
+    importPoints: 1
+  abcStartTime: 0
+  abcEndTime: 0.41666666666666663
+  startTime: 0
+  endTime: 0.41666666666666663
+  importWarning: 
+  varyingTopologyMeshNames: []
+  splittingMeshNames: []
