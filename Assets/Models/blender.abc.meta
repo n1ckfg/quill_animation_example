@@ -1,8 +1,26 @@
 fileFormatVersion: 2
 guid: 26b90961f573afd40bfe0dce798f4855
-timeCreated: 1518821677
-licenseType: Pro
 ScriptedImporter:
+  fileIDToRecycleName:
+    100000: blender/blender
+    100002: blender/blender/Camera
+    100004: blender/blender/Camera/CameraShape
+    100006: blender/blender/crv_GP_Layer_1_mesh_007
+    100008: blender/blender/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape
+    400000: blender/blender/Transform
+    400002: blender/blender/Camera/Transform
+    400004: blender/blender/Camera/CameraShape/Transform
+    400006: blender/blender/crv_GP_Layer_1_mesh_007/Transform
+    400008: blender/blender/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/Transform
+    2100000: Default Material
+    2300000: blender/blender/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/MeshRenderer
+    3300000: blender/blender/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/MeshFilter
+    4300000: crv_GP_Layer_1_mesh_007Shape
+    7400000: Default Animation
+    11400000: blender/blender/MonoBehaviour-UTJ.Alembic.AlembicStreamPlayer
+    11400002: blender_ABCDesc
+    100100000: blender
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -17,7 +35,7 @@ ScriptedImporter:
     turnQuadEdges: 0
     interpolateSamples: 1
     importXform: 1
-    importCamera: 1
+    importCamera: 0
     importPolyMesh: 1
     importPoints: 1
   abcStartTime: 0

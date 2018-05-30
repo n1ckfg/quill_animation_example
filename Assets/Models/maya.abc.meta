@@ -1,8 +1,21 @@
 fileFormatVersion: 2
 guid: e7c8d308f30783940bdaf747dc9bef0d
-timeCreated: 1518821682
-licenseType: Pro
 ScriptedImporter:
+  fileIDToRecycleName:
+    100000: maya/maya
+    100002: maya/maya/crv_GP_Layer_1_mesh_007
+    100004: maya/maya/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape
+    400000: maya/maya/Transform
+    400002: maya/maya/crv_GP_Layer_1_mesh_007/Transform
+    400004: maya/maya/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/Transform
+    2100000: Default Material
+    2300000: maya/maya/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/MeshRenderer
+    3300000: maya/maya/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/MeshFilter
+    4300000: crv_GP_Layer_1_mesh_007Shape
+    11400000: maya/maya/MonoBehaviour-UTJ.Alembic.AlembicStreamPlayer
+    11400002: maya_ABCDesc
+    100100000: maya
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -17,7 +30,7 @@ ScriptedImporter:
     turnQuadEdges: 0
     interpolateSamples: 1
     importXform: 1
-    importCamera: 1
+    importCamera: 0
     importPolyMesh: 1
     importPoints: 1
   abcStartTime: 0.041666666666666664

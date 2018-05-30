@@ -1,8 +1,34 @@
 fileFormatVersion: 2
 guid: f3950edbc6c063f4ca2c73e8b9ff9c0c
-timeCreated: 1518533995
-licenseType: Free
 ScriptedImporter:
+  fileIDToRecycleName:
+    100000: nick001/nick001
+    100002: nick001/nick001/unit_conversion_scaling
+    100004: nick001/nick001/unit_conversion_scaling/Root
+    100006: nick001/nick001/unit_conversion_scaling/Root/NewLayer0
+    100008: nick001/nick001/unit_conversion_scaling/Root/NewLayer0/mesh
+    100010: nick001/nick001/unit_conversion_scaling/Root/Paint
+    100012: nick001/nick001/unit_conversion_scaling/Root/Paint/mesh
+    400000: nick001/nick001/Transform
+    400002: nick001/nick001/unit_conversion_scaling/Transform
+    400004: nick001/nick001/unit_conversion_scaling/Root/Transform
+    400006: nick001/nick001/unit_conversion_scaling/Root/NewLayer0/Transform
+    400008: nick001/nick001/unit_conversion_scaling/Root/NewLayer0/mesh/Transform
+    400010: nick001/nick001/unit_conversion_scaling/Root/Paint/Transform
+    400012: nick001/nick001/unit_conversion_scaling/Root/Paint/mesh/Transform
+    2100000: Default Material
+    2300000: nick001/nick001/unit_conversion_scaling/Root/NewLayer0/mesh/MeshRenderer
+    2300002: nick001/nick001/unit_conversion_scaling/Root/Paint/mesh/MeshRenderer
+    3300000: nick001/nick001/unit_conversion_scaling/Root/NewLayer0/mesh/MeshFilter
+    3300002: nick001/nick001/unit_conversion_scaling/Root/Paint/mesh/MeshFilter
+    4300000: mesh
+    4300002: mesh
+    7400000: Default Animation
+    11400000: nick001/nick001/MonoBehaviour-UTJ.Alembic.AlembicStreamPlayer
+    11400002: nick001_ABCDesc
+    100100000: nick001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -17,7 +43,7 @@ ScriptedImporter:
     turnQuadEdges: 0
     interpolateSamples: 1
     importXform: 1
-    importCamera: 1
+    importCamera: 0
     importPolyMesh: 1
     importPoints: 1
   abcStartTime: 0

@@ -1,8 +1,21 @@
 fileFormatVersion: 2
 guid: 86532cd04c1708541ba287fcf320569d
-timeCreated: 1518821680
-licenseType: Pro
 ScriptedImporter:
+  fileIDToRecycleName:
+    100000: houdini/houdini
+    100002: houdini/houdini/geo1
+    100004: houdini/houdini/geo1/attribpromote1
+    400000: houdini/houdini/Transform
+    400002: houdini/houdini/geo1/Transform
+    400004: houdini/houdini/geo1/attribpromote1/Transform
+    2100000: Default Material
+    2300000: houdini/houdini/geo1/attribpromote1/MeshRenderer
+    3300000: houdini/houdini/geo1/attribpromote1/MeshFilter
+    4300000: attribpromote1
+    11400000: houdini/houdini/MonoBehaviour-UTJ.Alembic.AlembicStreamPlayer
+    11400002: houdini_ABCDesc
+    100100000: houdini
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -17,7 +30,7 @@ ScriptedImporter:
     turnQuadEdges: 0
     interpolateSamples: 1
     importXform: 1
-    importCamera: 1
+    importCamera: 0
     importPolyMesh: 1
     importPoints: 1
   abcStartTime: 0.041666666666666664
