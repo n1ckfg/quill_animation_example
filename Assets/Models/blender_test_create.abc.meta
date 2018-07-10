@@ -1,8 +1,27 @@
 fileFormatVersion: 2
 guid: daca90b7a41e74541891167bb4144076
-timeCreated: 1519237584
-licenseType: Pro
 ScriptedImporter:
+  fileIDToRecycleName:
+    100000: blender_test_create/blender_test_create
+    100002: blender_test_create/blender_test_create/Camera
+    100004: blender_test_create/blender_test_create/Camera/CameraShape
+    100006: blender_test_create/blender_test_create/crv_GP_Layer_1_mesh_007
+    100008: blender_test_create/blender_test_create/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape
+    400000: blender_test_create/blender_test_create/Transform
+    400002: blender_test_create/blender_test_create/Camera/Transform
+    400004: blender_test_create/blender_test_create/Camera/CameraShape/Transform
+    400006: blender_test_create/blender_test_create/crv_GP_Layer_1_mesh_007/Transform
+    400008: blender_test_create/blender_test_create/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/Transform
+    2000000: blender_test_create/blender_test_create/Camera/CameraShape/Camera
+    2100000: Default Material
+    2300000: blender_test_create/blender_test_create/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/MeshRenderer
+    3300000: blender_test_create/blender_test_create/crv_GP_Layer_1_mesh_007/crv_GP_Layer_1_mesh_007Shape/MeshFilter
+    4300000: crv_GP_Layer_1_mesh_007Shape
+    7400000: Default Animation
+    11400000: blender_test_create/blender_test_create/MonoBehaviour-UTJ.Alembic.AlembicStreamPlayer
+    11400002: blender_test_create_ABCDesc
+    100100000: blender_test_create
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
